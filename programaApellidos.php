@@ -8,8 +8,16 @@ include_once("tateti.php");
 /* Apellido, Nombre. Legajo. Carrera. mail. Usuario Github */
 /* ... COMPLETAR ... */
 
+/* Barboza Francisco Tomás 
+FAI FAI-3595
+tecnicatura universitaria desarrollo web
+francisco.barboza@est.fi.uncoma.edu.ar
+GITHUB: FranciscoBarboza (*aparezco con la foto del gato empresario*) */
 
 
+/*Jorge Segura
+LEGAJO Nº FAI-231
+jorge.segura@est.fi.uncoma.edu.ar
 
 
 /**************************************/
