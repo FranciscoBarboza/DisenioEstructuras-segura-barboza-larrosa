@@ -119,5 +119,4 @@ $tableroTateti =
      echo "tucson";
  };
 
- //tonto
- 
+function agregarJuego
