@@ -118,3 +118,6 @@ $tableroTateti =
  if (solicitarCasilleroLibre($tableroTateti)) {
      echo "tucson";
  };
+
+ //tonto
+ 
